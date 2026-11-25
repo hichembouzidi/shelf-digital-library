@@ -1,0 +1,1 @@
+const nextConfig = { transpilePackages: ["@library/shared"] }; export default nextConfig;

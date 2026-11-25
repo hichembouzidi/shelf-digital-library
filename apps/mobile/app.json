@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Shelf Digital Library",
+    "slug": "shelf-digital-library",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#171b35" },
+    "android": { "package": "com.example.shelfdigitallibrary" }
+  }
+}

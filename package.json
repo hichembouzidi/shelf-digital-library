@@ -1,0 +1,10 @@
+{
+  "name": "digital-library",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev:web": "npm run dev --workspace @library/web",
+    "dev:mobile": "npm run start --workspace @library/mobile",
+    "build:web": "npm run build --workspace @library/web"
+  }
+}
